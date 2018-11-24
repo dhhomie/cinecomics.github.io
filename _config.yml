@@ -101,3 +101,5 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+
+remote_theme: mmistakes/so-simple-theme
