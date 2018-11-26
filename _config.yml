@@ -87,14 +87,14 @@ defaults:
 
 # Site Author
 author:
-  name: happy
+  name: Happy
   picture: /images/michael-rose-photo.jpg
   email: dhhomie@gmail.com
-  twitter:
-  links:
-    - title:
-      url:
-      icon:
+#  twitter:
+#  links:
+#    - title:
+#      url:
+#      icon:
 
 # Footer Links
 footer_links:
