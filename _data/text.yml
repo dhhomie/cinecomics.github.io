@@ -46,7 +46,7 @@ ko: &DEFAULT_KR
   menu_label: "메뉴"
   by: "by"
   min_read: "min read"
-  read_more: "이어서 읽기&hellip;"
+  read_more: "더 보기&hellip;"
   categories: "카테고리"
   tags: "태그"
   pages_categorized: "Pages filed under"

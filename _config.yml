@@ -16,7 +16,7 @@
 # remote_theme: mmistakes/so-simple-theme
 locale: ko-kr
 title: "MCU Gallery"
-description: "dummy description"
+description: "마블 영화 조금 더 재밌게 보기"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 url: "https://dhhomie.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
